@@ -1,5 +1,5 @@
- #Student Enrollment Form
- Saving data of student using JsonPowerDB.
+Student Enrollment Form
+Saving data of student using JsonPowerDB.
 
 Features of JsonPowerDB are:
 Nimble, simple to use, in memory, real time
